@@ -142,7 +142,6 @@ export async function POST({ request }) {
 	cart.forEach(validateCartItem);
 
 	if (!STRIPE_SECRET_KEY) {
-		console.error('Stripe secret key is not configured');
 		throw error(500, 'Internal server error: Stripe is not configured');
 	}
 
