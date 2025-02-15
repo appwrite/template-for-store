@@ -60,7 +60,7 @@
 		<div>
 			Deployed by <a href="https://appwrite.io" target="_blank">Appwrite</a>. Source code available
 			on
-			<a href="https://github.com/Meldiron/store-template" target="_blank">GitHub</a>.
+			<a href="https://github.com/appwrite/template-for-store" target="_blank">GitHub</a>.
 		</div>
 	</div>
 
